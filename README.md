@@ -16,4 +16,13 @@
 <br>
 <br>
 <br>
-<h1>#100DaysOfCode</h1>
+<h1>#100DaysOfCode - Round 1</h1>
+
+The log of my #100DaysOfCode challenge. Started on [Monday 8th July 2024].
+
+## Log
+
+### R1D1 
+...
+
+### R1D2
