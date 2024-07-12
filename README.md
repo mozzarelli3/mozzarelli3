@@ -31,7 +31,7 @@ By the end of the week I hope to be more confident in my code (as at the moment 
 Day 2 involved another day exploring JS. Today the topics were objects and arrays...
 
 ### Day 3 - Debugging and functions, functions, functions!
-Today was day 3 of SoC, and my first full 9-5 day. Our tasks today included learning how to debug using console.log() and Chrome DevTools. Both were incredibly useful when completing the projects I was given, however, console.log()...
+Today was day 3 of SoC, and my first full 9-5 day. Our tasks today included learning how to debug using console.log() and Chrome DevTools. Both were incredibly useful when completing the projects I was given.
 Learning how to tag issues on github with the "bug" label and then fix these bugs directly when committing was an interesting glimpse into the coding work that happens in industry. 
 
 ### Day 4 - Very first Hackathon
