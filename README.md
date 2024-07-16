@@ -16,7 +16,7 @@
 <br>
 <br>
 <br>
-<h1>#100DaysOfCode - Round 1</h1>
+<h1>#100DaysOfCode</h1>
 
 The log of my #100DaysOfCode challenge. Started on [Monday 8th July 2024].
 
@@ -45,6 +45,14 @@ My first SoC week complete! Today I finished off my rock, paper, scissors hackat
 Presenting and public speaking is not something that I enjoy, so I'm very pleased and proud that it went well. Our project worked really well, was structured nicely, and more importantly we were proud of what we had achieved.
 Feedback to my team included very neat code (yay!), good and clear communication, but not to be too hard on ourselves. Overall very pleased with this week, I'm looking forward to seeing what comes next :).
 
+## Week 2
+
+### Day 8 - Graduation!
+Although today was a very busy day, I still managed to squeeze in a little bit of coding :). I spent an hour on the SoC intro to the DOM workshop to get ready for the week. So far so good, just need to remember to use document. before using the functions like getElementById, for example.
+
+### Day 9 - Frontend Development Week
+First day back at SoC after the weekend and this week I will be covering all things frontend. Today we went through the Document Object Model (DOM), the importance of semantic HTML, and then started building a quiz website project with my new team for this week.
+I also went through debugging with Chrome DevTools with my mentor which was very helpful, I plan to implement this throughout my projects to get comfortable with DevTools.
 
 
 
