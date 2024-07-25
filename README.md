@@ -54,6 +54,36 @@ Although today was a very busy day, I still managed to squeeze in a little bit o
 First day back at SoC after the weekend and this week I will be covering all things frontend. Today we went through the Document Object Model (DOM), the importance of semantic HTML, and then started building a quiz website project with my new team for this week.
 I also went through debugging with Chrome DevTools with my mentor which was very helpful, I plan to implement this throughout my projects to get comfortable with DevTools.
 
+### Day 10
+Today we made good progress with our quiz app. We pretty much finalised the html and css files and made a start on connecting it with our JS. At the moment this feels very out of reach and challenging, but a challenge I'm enjoying. My team have been brilliant at helping each other along and
+making sure everyone has a good understanding of the code before moving forward. Feeling very optimistic.
+
+### Day 11
+Thursday brought with it another graduation, this time for family. I didn't manage to get done as much as I would have liked in the evening, but I was still able to go through the code that was written by my team during the bootcamp session.
+
+### Day 12
+Quiz Academy app finished! This week was very rewarding getting our quiz app to work. Having not been in yesterday, I was concerned that I may have felt left behind but that was not the case, my team went through every bit of new code so I understood. We presented to the rest of the bootcampers
+and recieved some good feedback on our code, final product, and presentation, so all in all week 2 has been a success. Bring on week 3!
+
+## Week 3
+
+### Day 14
+The first day of backend! So far back end was not what I was expecting. Whilst being as challenging as I expected, it was far more enjoyable than what I thought it would be. Today I learned about node.js, npm, .json, and using node express.
+By the end of the week I hope to be able to successfully complete the different types of requests, such as GET and POST requests.
+
+### Day 15
+Today we started our project for the week! This week we are aiming to create our own REST API using node.js and Express. I expect this will be a challenging task, as so far I've been used to having a visual product. I think this project will test me but
+I'm excited to see how far it can push me.
+
+### Day 16
+Made some good progress on my understanding of completing the different kinds of requests (GET, PUT, POST, etc.). I successfully applied these to the project and I think I'm slowly starting to get the hang of it all.
+
+### Day 17
+Spent the morning continuing with our project, made some good progress, then spent the rest of the session completing a workshop on using the file system in node.js. This I found very challenging, we weren't able to complete the first ticket as we had
+so many errors, but after a discussion on the SoC slack, it is starting to make a little more sense. Looking forward to finishing up the REST API tomorrow and presenting it to the rest of the cohort.
+
+### Day 18
+
 
 
 
