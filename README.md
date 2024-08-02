@@ -86,11 +86,26 @@ I'm excited to see how far it can push me.
 I made some good progress on my understanding of completing the different kinds of requests (GET, PUT, POST, etc.). I successfully applied these to the project and I think I'm slowly starting to get the hang of it all.
 
 ### Day 17 - File systems in JS
-Today I spent the morning continuing with our project, made some good progress, then spent the rest of the session completing a workshop on using the file system in node.js. This I found very challenging, we weren't able to complete the first ticket as we had
-so many errors, but after a discussion on the SoC slack, it is starting to make a little more sense. Looking forward to finishing up the REST API tomorrow and presenting it to the rest of the cohort.
+Today I spent the morning continuing with our project, made some good progress, then spent the rest of the session completing a workshop on using the file system in node.js. This I found very challenging, we weren't able to complete the first ticket as we had so many errors, but after a discussion on the SoC slack, it is starting to make a little more sense. Looking forward to finishing up the REST API tomorrow and presenting it to the rest of the cohort.
 
-### Day 18 - 
+### Day 18 - Backend Hackathon
+Final day of the week and today is hackathon presentation day! This week has been tough, and a change from familiarity but I have enjoyed it far more than expected. The presentation went well, the team and I got good feedback. We almost finished all the tasks (GET, POST, PUT requests), but didn't manage to finish the DELETE request. Today, I also had a productive meeting with my mentor.
 
+## Week 4
+
+### Day 21 - Recap of backend
+Monday marked the first day of database week, but instead of jumping straight in, we are going back over the fundamentals of last week's backend project. This should set us up nicely to be able to incorporate it with what we learn in SQL this week when we start the hackathon.
+
+### Day 22 - SQL!
+Today I started learning SQL. So far, it feels like a very nice language to use - it's very readable and logical. I have completed a few basic SQL workshops to start this week off. I'm hoping by the end of this week I will feel more confident with backend code.
+
+### Day 23 - SQL Murder Mystery
+Within the bootcamp, my team and I were tasked with solving a murder using SQL. It was a great way to put our newly found SQL skills to the test and cement our knowledge. It was a fab game, and everyone enjoyed playing it. After this, I had another online SQL workshop to complete. This has left me feeling more confident with SQL.
+
+### Day 24 - SQL and REST API
+Today was the day we connected SQL to everything we had done last week. As part of this weeks hackathon, we are connecting a REST API to a database using Postgres. This so far has been challenging, but a great way to recap last weeks skills. Bring on tomorrow!
+
+### Day 25 - SQL and REST API continued
 
 
 
