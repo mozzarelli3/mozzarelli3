@@ -30,7 +30,7 @@ The log of my #100DaysOfCode challenge. Started on [Monday 8th July 2024].
 ## Log
 
 <details>
-<summary>**Week 1**</summary>
+<summary><b>Week 1</b></summary>
 
 ### Day 1 - Intro to JS, and all things code!
 Day 1, my first day at School of Code! After being away last week and catching up on the onboarding tasks, I felt ready to jump straight into learning code.
@@ -57,7 +57,7 @@ Feedback to my team included very neat code (yay!), good and clear communication
 </details>
 
 <details>
-<summary>**Week 2**</summary>
+<summary><b>Week 2</b></summary>
 
 ### Day 8 - Graduation!
 Although today was a very busy day, I still managed to squeeze in a little bit of coding :). I spent an hour on the SoC intro to the DOM workshop to get ready for the week. So far so good, just need to remember to use document. before using the functions like getElementById, for example.
@@ -80,7 +80,7 @@ and recieved some good feedback on our code, final product, and presentation, so
 
 
 <details>
-<summary>**Week 3**</summary>
+<summary><b>Week 3</>b></summary>
 
 ### Day 14 - Backend begins
 The first day of backend! So far back end was not what I was expecting. Whilst being as challenging as I expected, it was far more enjoyable than what I thought it would be. Today I learned about node.js, npm, .json, and using node express.
@@ -101,7 +101,7 @@ Final day of the week and today is hackathon presentation day! This week has bee
 </details>
 
 <details>
-<summary>**Week 4**</summary>
+<summary><b></b>Week 4</b></summary>
 
 ### Day 21 - Recap of backend
 Monday marked the first day of database week, but instead of jumping straight in, we are going back over the fundamentals of last week's backend project. This should set us up nicely to be able to incorporate it with what we learn in SQL this week when we start the hackathon.
@@ -121,7 +121,7 @@ The time came around to yet again present the team's project to the cohort. We m
 </details>
 
 <details>
-<summary>**Week 5**</summary>
+<summary><b>Week 5</b></summary>
 
 ### Day 28 - Testing testing, 1 2 3
 The first day of testing! Today we delved into the world of testing by starting with a workshop on uni testing. This involved writing basic tests for a calculator app and ensuring that they pass. 
