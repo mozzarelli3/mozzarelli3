@@ -29,6 +29,9 @@ The log of my #100DaysOfCode challenge. Started on [Monday 8th July 2024].
 
 ## Log
 
+<details>
+<summary>Week 1</summary>
+
 ### Day 1 - Intro to JS, and all things code!
 Day 1, my first day at School of Code! After being away last week and catching up on the onboarding tasks, I felt ready to jump straight into learning code.
 This week we're covering the basics of JavaScript through a the lens of a software engineer. Very excited but a little nervous.
@@ -51,6 +54,7 @@ Hopefully a good nights sleep will help!
 My first SoC week complete! Today I finished off my rock, paper, scissors hackathon project with my team and presented it to Cohort#17.
 Presenting and public speaking is not something that I enjoy, so I'm very pleased and proud that it went well. Our project worked really well, was structured nicely, and more importantly we were proud of what we had achieved.
 Feedback to my team included very neat code (yay!), good and clear communication, but not to be too hard on ourselves. Overall very pleased with this week, I'm looking forward to seeing what comes next :).
+</details>
 
 ## Week 2
 
