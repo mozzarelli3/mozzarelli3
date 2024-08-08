@@ -30,7 +30,7 @@ The log of my #100DaysOfCode challenge. Started on [Monday 8th July 2024].
 ## Log
 
 <details>
-<summary>Week 1</summary>
+<summary>**Week 1**</summary>
 
 ### Day 1 - Intro to JS, and all things code!
 Day 1, my first day at School of Code! After being away last week and catching up on the onboarding tasks, I felt ready to jump straight into learning code.
@@ -56,7 +56,8 @@ Presenting and public speaking is not something that I enjoy, so I'm very please
 Feedback to my team included very neat code (yay!), good and clear communication, but not to be too hard on ourselves. Overall very pleased with this week, I'm looking forward to seeing what comes next :).
 </details>
 
-## Week 2
+<details>
+<summary>**Week 2**</summary>
 
 ### Day 8 - Graduation!
 Although today was a very busy day, I still managed to squeeze in a little bit of coding :). I spent an hour on the SoC intro to the DOM workshop to get ready for the week. So far so good, just need to remember to use document. before using the functions like getElementById, for example.
@@ -75,8 +76,11 @@ Thursday brought with it another graduation, this time for family. I didn't mana
 ### Day 12 - QuizAcademy finish!
 Quiz Academy app finished! This week was very rewarding getting our quiz app to work. Having not been in yesterday, I was concerned that I may have felt left behind but that was not the case, my team went through every bit of new code so I understood. We presented to the rest of the bootcampers
 and recieved some good feedback on our code, final product, and presentation, so all in all week 2 has been a success. Bring on week 3!
+</details>
 
-## Week 3
+
+<details>
+<summary>**Week 3**</summary>
 
 ### Day 14 - Backend begins
 The first day of backend! So far back end was not what I was expecting. Whilst being as challenging as I expected, it was far more enjoyable than what I thought it would be. Today I learned about node.js, npm, .json, and using node express.
@@ -94,8 +98,10 @@ Today I spent the morning continuing with our project, made some good progress, 
 
 ### Day 18 - Backend Hackathon
 Final day of the week and today is hackathon presentation day! This week has been tough, and a change from familiarity but I have enjoyed it far more than expected. The presentation went well, the team and I got good feedback. We almost finished all the tasks (GET, POST, PUT requests), but didn't manage to finish the DELETE request. Today, I also had a productive meeting with my mentor.
+</details>
 
-## Week 4
+<details>
+<summary>**Week 4**</summary>
 
 ### Day 21 - Recap of backend
 Monday marked the first day of database week, but instead of jumping straight in, we are going back over the fundamentals of last week's backend project. This should set us up nicely to be able to incorporate it with what we learn in SQL this week when we start the hackathon.
@@ -110,10 +116,27 @@ Within the bootcamp, my team and I were tasked with solving a murder using SQL. 
 Today was the day we connected SQL to everything we had done last week. As part of this weeks hackathon, we are connecting a REST API to a database using Postgres. This so far has been challenging, but a great way to recap last weeks skills. Bring on tomorrow!
 
 ### Day 25 - SQL and REST API continued
+The time came around to yet again present the team's project to the cohort. We managed to complete most of the requests in time for the demo which was great. The presentation went well, the team and I had great feedback, and I was proud of what we had achieved this week.
 
+</details>
 
+<details>
+<summary>**Week 5**</summary>
 
+### Day 28 - Testing testing, 1 2 3
+The first day of testing! Today we delved into the world of testing by starting with a workshop on uni testing. This involved writing basic tests for a calculator app and ensuring that they pass. 
 
+### Day 29 - 
+Today we 
+
+### Day 30 - TDD
+Today we had another talk by expert QA engineers about the use of testing within the industry. It was incredibly interesting to hear the importance of testing, and the issues and problems that can arise if not completed. After this my team and I completed a workshop on linking our knowledge of backend API and testing. This was a fun challenge, as it gave another chance to recap our skills from previous weeks.
+
+### Day 31 - End to end testing
+
+### Day 32 - 
+
+</details>
 
 
 
