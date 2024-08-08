@@ -101,7 +101,7 @@ Final day of the week and today is hackathon presentation day! This week has bee
 </details>
 
 <details>
-<summary><b></b>Week 4 - Databases and SQL</b></summary>
+<summary><b>Week 4 - Databases and SQL</b></summary>
 
 ### Day 21 - Recap of backend
 Monday marked the first day of database week, but instead of jumping straight in, we are going back over the fundamentals of last week's backend project. This should set us up nicely to be able to incorporate it with what we learn in SQL this week when we start the hackathon.
