@@ -80,7 +80,7 @@ and recieved some good feedback on our code, final product, and presentation, so
 
 
 <details>
-<summary><b>Week 3</>b></summary>
+<summary><b>Week 3</b></summary>
 
 ### Day 14 - Backend begins
 The first day of backend! So far back end was not what I was expecting. Whilst being as challenging as I expected, it was far more enjoyable than what I thought it would be. Today I learned about node.js, npm, .json, and using node express.
