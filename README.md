@@ -134,7 +134,9 @@ Today we had another talk by expert QA engineers about the use of testing within
 
 ### Day 31 - End to end testing
 
-### Day 32 - 
+
+### Day 32 - CodeWars Hackathon
+For this weeks hackathon we were tasked with creating a code kata for the other bootcampers to have a go at. 
 
 </details>
 
