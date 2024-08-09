@@ -21,7 +21,6 @@
   
 </p>
 <br>
-<br>
 <h1>#100DaysOfCode</h1>
 
 The log of my #100DaysOfCode challenge. Started on [Monday 8th July 2024].
