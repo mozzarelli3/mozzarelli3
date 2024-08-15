@@ -23,7 +23,7 @@
 <br>
 <h1>#100DaysOfCode</h1>
 
-The log of my #100DaysOfCode challenge. Started on [Monday 8th July 2024].
+The log of my #100DaysOfCode challenge during School of Code bootcamp. Started on [Monday 8th July 2024].
 
 ## Log
 
@@ -124,10 +124,10 @@ The time came around to yet again present the team's project to the cohort. We m
 ### Day 28 - Testing testing, 1 2 3
 The first day of testing! Today we delved into the world of testing by starting with a workshop on unit testing. This involved writing basic tests for a calculator app and ensuring that they pass. I found this very satisfying once I was able to pass all of the tests!
 
-### Day 29 - More Unit Testing
-Today we 
+### Day 29 - TDD
+Today we delved more into unit testing and the use of test-driven development (TDD). This was a challenging mindset shift at first - it felt unnatural to write tests before writing any functions as I wasn't confident initially that the tests that I was writing were correct. Upon reflection I can see how TDD would be really beneficial.
 
-### Day 30 - TDD
+### Day 30 - API testing
 Today we had another talk by expert QA engineers about the use of testing within the industry. It was incredibly interesting to hear the importance of testing, and the issues and problems that can arise if not completed. After this my team and I completed a workshop on linking our knowledge of backend API and testing. This was a fun challenge, as it gave another chance to recap our skills from previous weeks.
 
 ### Day 31 - End to end testing
@@ -147,7 +147,8 @@ A very fun day of recreating a very basic website using HTML and CSS to prepare 
 ### Day 36 - Components and Props
 The first day of React. At first it felt odd to be putting "HTML" inside of a Javascript function, but the more my team and I completed within our workshop, the more it started to make sense. So far, so good.
 
-### Day 37 - Stating Props
+### Day 37 - State and Events
+Today was looking at stating props.
 
 ### Day 38 - 
 
