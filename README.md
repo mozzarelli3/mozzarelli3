@@ -122,21 +122,36 @@ The time came around to yet again present the team's project to the cohort. We m
 <summary><b>Week 5 - Quality Assurance Experience</b></summary>
 
 ### Day 28 - Testing testing, 1 2 3
-The first day of testing! Today we delved into the world of testing by starting with a workshop on uni testing. This involved writing basic tests for a calculator app and ensuring that they pass. 
+The first day of testing! Today we delved into the world of testing by starting with a workshop on unit testing. This involved writing basic tests for a calculator app and ensuring that they pass. I found this very satisfying once I was able to pass all of the tests!
 
-### Day 29 - 
+### Day 29 - More Unit Testing
 Today we 
 
 ### Day 30 - TDD
 Today we had another talk by expert QA engineers about the use of testing within the industry. It was incredibly interesting to hear the importance of testing, and the issues and problems that can arise if not completed. After this my team and I completed a workshop on linking our knowledge of backend API and testing. This was a fun challenge, as it gave another chance to recap our skills from previous weeks.
 
 ### Day 31 - End to end testing
-
+The day of end-to-end testing. This was far more enjoyable to me than unit testing.
 
 ### Day 32 - CodeWars Hackathon
-For this weeks hackathon we were tasked with creating a code kata for the other bootcampers to have a go at. 
+For this weeks hackathon we were tasked with creating a code kata for the other bootcampers to have a go at. This was an incredibly fun hackathon, and felt quite different to the other ones I have completed so far. One of the hardest parts I found was to come up with a story for the game itself. In reflection on this week, I think I need to spend some time focusing on TDD and completing more CodeWars katas to improve my function writing ability.
 
 </details>
 
+<details>
+<summary><b>Week 6 - Web Development Experience</b></summary>
+
+### Day 35 - Recap of HTML and CSS
+A very fun day of recreating a very basic website using HTML and CSS to prepare us for learning React tomorrow! I always really enjoy working with HTML and CSS, it's always a little challenging perfecting the styling but I find great satisfaction once it is done.
+
+### Day 36 - Components and Props
+The first day of React. At first it felt odd to be putting "HTML" inside of a Javascript function, but the more my team and I completed within our workshop, the more it started to make sense. So far, so good.
+
+### Day 37 - Stating Props
+
+### Day 38 - 
+
+
+</details>
 
 
