@@ -148,11 +148,28 @@ A very fun day of recreating a very basic website using HTML and CSS to prepare 
 The first day of React. At first it felt odd to be putting "HTML" inside of a Javascript function, but the more my team and I completed within our workshop, the more it started to make sense. So far, so good.
 
 ### Day 37 - State and Events
-Today was looking at stating props.
+Today was looking at state and props. The workshop looked at creating a pop-out menu that opens once a menu button is clicked, and then disappears when clicked again. This was done passing through props and using useState.
 
-### Day 38 - 
+### Day 38 - Hackathon Prep
+Half of today looked at wrapping up the workshop started yesterday, the other half was looking at and planning the hackathon task ready for tomorrow. I've enjoyed that the hackathon task directly links with all the workshops I have done this week, it feels like a very natural progression.
 
+### Day 39 - React Hackathon!
+The day of the hackathon. This week's task was to build on the website we had already been creating, and to implement some useState and useEffect to create a review section that links to an API. The website was planned to show three separate buttons that corresponded to Wales, England, and Scotland, and once clicked, display a review from that country. My team and I successfully completed this, and presented well. 
 
 </details>
 
+<details>
+<summary><b>Week 7 - Web Development Experience part II</b></summary>
 
+### Day 42 - Recapping React
+Before jumping into more React learning, we took the day to work within our teams on a workshop recapping all of the skills we had learned last week. This was really beneficial to help solidate my learning before moving on to more topics. The workshop today involved recreating a small flashcard website using a form to input the user's choice of flashcard questions and answers.
+
+### Day 43
+
+### Day 44
+
+### Day 45
+
+### Day 46
+
+</details>
