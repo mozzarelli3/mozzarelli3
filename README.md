@@ -119,7 +119,7 @@ The time came around to yet again present the team's project to the cohort. We m
 </details>
 
 <details>
-<summary><b>Week 5 - Quality Assurance Experience</b></summary>
+<summary><b>Week 5 - Quality Assurance and Testing</b></summary>
 
 ### Day 28 - Testing testing, 1 2 3
 The first day of testing! Today we delved into the world of testing by starting with a workshop on unit testing. This involved writing basic tests for a calculator app and ensuring that they pass. I found this very satisfying once I was able to pass all of the tests!
@@ -139,7 +139,7 @@ For this weeks hackathon we were tasked with creating a code kata for the other 
 </details>
 
 <details>
-<summary><b>Week 6 - Web Development Experience</b></summary>
+<summary><b>Week 6 - React</b></summary>
 
 ### Day 35 - Recap of HTML and CSS
 A very fun day of recreating a very basic website using HTML and CSS to prepare us for learning React tomorrow! I always really enjoy working with HTML and CSS, it's always a little challenging perfecting the styling but I find great satisfaction once it is done.
@@ -159,7 +159,7 @@ The day of the hackathon. This week's task was to build on the website we had al
 </details>
 
 <details>
-<summary><b>Week 7 - Web Development Experience part II</b></summary>
+<summary><b>Week 7 - React part II</b></summary>
 
 ### Day 42 - Recapping React
 Before jumping into more React learning, we took the day to work within our teams on a workshop recapping all of the skills we had learned last week. This was really beneficial to help solidate my learning before moving on to more topics. The workshop today involved recreating a small flashcard website using a form to input the user's choice of flashcard questions and answers.
