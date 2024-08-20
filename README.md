@@ -23,7 +23,7 @@
   
 </p>
 <br>
-<h1>#100DaysOfCode</h1>
+<h2>#100DaysOfCode</h2>
 
 The log of my #100DaysOfCode challenge during School of Code bootcamp. Started on [Monday 8th July 2024].
 
