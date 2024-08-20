@@ -166,7 +166,8 @@ The day of the hackathon. This week's task was to build on the website we had al
 ### Day 42 - Recapping React
 Before jumping into more React learning, we took the day to work within our teams on a workshop recapping all of the skills we had learned last week. This was really beneficial to help solidate my learning before moving on to more topics. The workshop today involved recreating a small flashcard website using a form to input the user's choice of flashcard questions and answers.
 
-### Day 43
+### Day 43 - Creating Forms in React
+Today's workshop consisted of adding a form to the Fireplace Palace website my team and I created last week to allow "customers" to submit a booking for a one-to-one design consultation instead of having access to the business's phone number. Working on the same project for two weeks has been really beneficial, it has been a natural progression from one website feature to another. My team and I successfully created the form for mobile use, if we had more time then we would need to also create this for desktop, too.
 
 ### Day 44
 
