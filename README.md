@@ -167,7 +167,8 @@ Before jumping into more React learning, we took the day to work within our team
 ### Day 43 - Creating Forms in React
 Today's workshop consisted of adding a form to the Fireplace Palace website my team and I created last week to allow "customers" to submit a booking for a one-to-one design consultation instead of having access to the business's phone number. Working on the same project for two weeks has been really beneficial, it has been a natural progression from one website feature to another. My team and I successfully created the form for mobile use, if we had more time then we would need to also create this for desktop, too.
 
-### Day 44
+### Day 44 - useReducer
+The long day of Wednesday at SoC has arrived for this week! Today has been a good introduction to using useReducer in React to streamline our submission forms within my team's website. This has been challenging to convert our pre-existing code using a useState function into code that uses the useReducer function, but I think this way of going about the workshop provided me with a better understanding, rather than just typing our a useReducer from scratch.
 
 ### Day 45
 
