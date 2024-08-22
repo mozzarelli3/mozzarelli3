@@ -170,7 +170,8 @@ Today's workshop consisted of adding a form to the Fireplace Palace website my t
 ### Day 44 - useReducer
 The long day of Wednesday at SoC has arrived for this week! Today has been a good introduction to using useReducer in React to streamline our submission forms within my team's website. This has been challenging to convert our pre-existing code using a useState function into code that uses the useReducer function, but I think this way of going about the workshop provided me with a better understanding, rather than just typing our a useReducer from scratch.
 
-### Day 45
+### Day 45 - Reducer Testing!
+Today my team and I finished changing all of our states into a useReducer function, then we started on this week's hackathon! So after almost two weeks of building our Fireplace Palace website, it is now time to test it! We will be using Playwright to complete end-to-end testing of our whole website. Today we started with documenting our user journeys using FigJam, and tomorrow we are planning to implement the tests themselves.
 
 ### Day 46
 
