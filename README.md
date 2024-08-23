@@ -178,6 +178,7 @@ So after two weeks of hard work creating a website for "Fireplace Palace", it is
 
 </details>
 
+-----------
 
 <details>
 <summary><b>Week 8 - UI/UX</b></summary>
