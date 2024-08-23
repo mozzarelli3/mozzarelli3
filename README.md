@@ -228,7 +228,7 @@ So after two weeks of hard work creating a website for "Fireplace Palace", it is
 <details>
 <summary><b>Week 14 - Final Project</b></summary>  
   
-### W/c 7th October  
+### W/c 7th October<br>
 
 </details>
 
