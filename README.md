@@ -179,6 +179,29 @@ So after two weeks of hard work creating a website for "Fireplace Palace", it is
 </details>
 
 <details>
-  <summary><b>Week 8 - UI/UX</b></summary>
+<summary><b>Week 9 - DevOps</b></summary>
   
+### W/c 26th August
+
+</details>
+
+<details>
+<summary><b>Week 10 - Cyber Security</b></summary>
+
+### W/c 2nd September
+
+</details>
+
+<details>
+<summary><b>Week 11 - Data, Python, and AI</b></summary>
+  
+### W/c 9th September
+  
+</details>
+
+<details>
+<summary><b>Week 12 - Final Project</b></summary>
+
+### W/c 16th September
+
 </details>
