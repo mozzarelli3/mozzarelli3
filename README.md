@@ -181,53 +181,54 @@ So after two weeks of hard work creating a website for "Fireplace Palace", it is
 -----------
 
 <details>
-<summary><b>Week 8 - UI/UX</b></summary>
+<summary><b>Week 8 - UI/UX</b></summary>  
   
 ### W/c 26th August
 </details>
 
 
 <details>
-<summary><b>Week 9 - DevOps</b></summary>
+<summary><b>Week 9 - DevOps</b></summary>  
   
 ### W/c 2nd September
 </details>
 
 
 <details>
-<summary><b>Week 10 - Cyber Security</b></summary>
+<summary><b>Week 10 - Cyber Security</b></summary>  
   
-### W/c 9th September
+### W/c 9th September  
 </details>
 
 
 <details>
-<summary><b>Week 11 - Data, Python, and AI</b></summary>
+<summary><b>Week 11 - Data, Python, and AI</b></summary>  
   
-### W/c 16th September
+### W/c 16th September  
+
 </details>
 
 
 <details>
-<summary><b>Week 12 - Final Project</b></summary>
+<summary><b>Week 12 - Final Project</b></summary>  
 
 ### W/c 23rd September
 </details>
 
 <details>
-<summary><b>Week 13 - Final Project</b></summary>
+<summary><b>Week 13 - Final Project</b></summary>  
   
 ### W/c 30th September
 </details>
 
 <details>
-<summary><b>Week 14 - Final Project</b></summary>
+<summary><b>Week 14 - Final Project</b></summary>  
   
 ### W/c 7th October
 </details>
 
 <details>
-<summary><b>Week 15 - Final Project</b></summary>
+<summary><b>Week 15 - Final Project</b></summary>  
   
 ### W/c 14th October
   
