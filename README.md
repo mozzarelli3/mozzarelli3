@@ -174,6 +174,11 @@ The long day of Wednesday at SoC has arrived for this week! Today has been a goo
 Today my team and I finished changing all of our states into a useReducer function, then we started on this week's hackathon! So after almost two weeks of building our Fireplace Palace website, it is now time to test it! We will be using Playwright to complete end-to-end testing of our whole website. Today we started with documenting our user journeys using FigJam, and tomorrow we are planning to implement the tests themselves.
 
 ### Day 46 - Website Presentation
-So after two weeks of hard work creating a website for "Fireplace Palace", it is finally over. My team and I successfully created a web application using React with React framework nextjs. We created multiple pages, a booking form that displays specific errors, a review section that calls to an API to retrieve reviews from Scotland, England or Wales. All in all, a very successful two weeks learning React!
+So after two weeks of hard work creating a website for "Fireplace Palace", it is all over. My team and I successfully created a web application using React with React framework nextjs. We created multiple pages, a booking form that displays specific errors, a review section that calls to an API to retrieve reviews from Scotland, England or Wales. All in all, a very successful two weeks learning React!
 
+</details>
+
+<details>
+  <summary><b>Week 8 - UI/UX</b></summary>
+  
 </details>
