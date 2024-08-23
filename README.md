@@ -200,8 +200,8 @@ So after two weeks of hard work creating a website for "Fireplace Palace", it is
 </details>
 
 <details>
-<summary><b>Week 12 - Final Project</b></summary>
+<summary><b>Week 12 to 16 - Final Project</b></summary>
 
-### W/c 16th September
+### W/c 16th September to 14th October
 
 </details>
