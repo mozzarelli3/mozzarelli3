@@ -178,15 +178,26 @@ So after two weeks of hard work creating a website for "Fireplace Palace", it is
 
 </details>
 
------------
-
 <details>
 <summary><b>Week 8 - UI/UX</b></summary>  
   
-### W/c 26th August  
+### Day 48 - Bank Holiday
+Today being a bank holiday meant no SoC, but that doesn't mean no coding! Today I spent some time building on my own project and recapping on basic React web development by setting up the basic structure of my project.
+
+### Day 49 - Introduction to User Centered Design
+The first day of the UX/UI week! Today I had a lot of talks given by the lovely people of Methods about the differences between User-Centred Design and Human-Centred Design, roles within a UCD team, and end to end service design. It was a very interesting day learning about other aspects of the web development process. While this didn't involve much coding, after the session had ended I had another look at my personal project.
+
+### Day 50 - Halfway!
+Another day with Methods! Today we had talks about user research, accessibility, and user experience (UX) design.
+Also, today is halfway point in my 100 Days of Code! 50 days down, 50 more to go 💪🏻.
+
+### Day 51
+
+### Day 52
 
 </details>
 
+-----------
 
 <details>
 <summary><b>Week 9 - DevOps</b></summary>  
