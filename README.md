@@ -197,7 +197,6 @@ Also, today is halfway point in my 100 Days of Code! 50 days down, 50 more to go
 
 </details>
 
------------
 
 <details>
 <summary><b>Week 9 - DevOps</b></summary>  
@@ -206,6 +205,7 @@ Also, today is halfway point in my 100 Days of Code! 50 days down, 50 more to go
 
 </details>
 
+-----------
 
 <details>
 <summary><b>Week 10 - Cyber Security</b></summary>  
@@ -230,21 +230,21 @@ Also, today is halfway point in my 100 Days of Code! 50 days down, 50 more to go
 </details>
 
 <details>
-<summary><b>Week 13 - Final Project</b></summary>  
+<summary><b>Week 13 - Project with YakChat</b></summary>  
   
 ### W/c 30th September  
 
 </details>
 
 <details>
-<summary><b>Week 14 - Final Project</b></summary>  
+<summary><b>Week 14 - Project with YakChat</b></summary>  
   
 ### W/c 7th October<br>
 
 </details>
 
 <details>
-<summary><b>Week 15 - Final Project</b></summary>  
+<summary><b>Week 15 - Project with YakChat</b></summary>  
   
 ### W/c 14th October  
 
