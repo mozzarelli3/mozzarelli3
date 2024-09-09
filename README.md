@@ -181,20 +181,20 @@ So after two weeks of hard work creating a website for "Fireplace Palace", it is
 <details>
 <summary><b>Week 8 - UI/UX</b></summary>  
   
-### Day 48 - Bank Holiday
+### Day 49 - Bank Holiday
 Today being a bank holiday meant no SoC, but that doesn't mean no coding! Today I spent some time building on my own project and recapping on basic React web development by setting up the basic structure of my project.
 
-### Day 49 - Introduction to User Centered Design
+### Day 50 - Introduction to User Centered Design
 The first day of the UX/UI week! Today I had a lot of talks given by the lovely people of Methods about the differences between User-Centred Design and Human-Centred Design, roles within a UCD team, and end to end service design. It was a very interesting day learning about other aspects of the web development process. While this didn't involve much coding, after the session had ended I had another look at my personal project.
 
-### Day 50 - Halfway!
+### Day 51 - Halfway!
 Another day with Methods! Today we had talks about user research, accessibility, and user experience (UX) design.
 Also, today is halfway point in my 100 Days of Code! 50 days down, 50 more to go 💪🏻.
 
-### Day 51 - Wireframing and Prototyping
+### Day 52 - Wireframing and Prototyping
 The challenge of today was to wireframe and prototype our application for tomorrow's hackathon presentation. Again, not much coding was completed today but I did look over and update my learning audit and went over some basic JS fundamentals as revision.
 
-### Day 52 - Presentation to Methods
+### Day 53 - Presentation to Methods
 Today's presentation went really well. It was great to have the experts from Methods in to give feedback on our work this week. The main points of feedback given were how my team and I took great care in ensuring the user research survey questions were well written, well thought-out, and effort was made to ensure that it didn't lead the interviewee to any answers.
 
 </details>
@@ -203,19 +203,19 @@ Today's presentation went really well. It was great to have the experts from Met
 <details>
 <summary><b>Week 9 - DevOps</b></summary>  
   
-### Day 55 - DevOps and Docker
+### Day 56 - DevOps and Docker
 The first day of DevOps. We had a great talk from ManyPets today, talking about the types roles in DevOps and how important it is.
 
-### Day 56 - Git Hooks (lint, prettier)
+### Day 57 - Git Hooks (lint, prettier)
 
 
-### Day 57 - AWS Cloud Practioner
+### Day 58 - AWS Cloud Practioner
 Today we used the AWS Skills Builder game to learn more about Amazon's cloud services
 
-### Day 58 - DevOps Hackathon
+### Day 59 - DevOps Hackathon
 
 
-### Day 59 - Hackathon Presentation
+### Day 60 - Hackathon Presentation
 We used:
 - Docker to containerise our application
 - Husky to run automated lint and prettier checks upon committing
@@ -229,9 +229,15 @@ Overall this week's hackathon was a success, we were successful in automatically
 <details>
 <summary><b>Week 10 - Cyber Security</b></summary>  
 
-### Day 60 - Cyber Security
+### Day 62 - Cyber Security
 
-### Day 61 - 
+### Day 63 - 
+
+### Day 64 - 
+
+### Day 65 
+
+### Day 67 -
  
 </details>
 
@@ -242,6 +248,8 @@ Overall this week's hackathon was a success, we were successful in automatically
   
 ### W/c 16th September  
 
+Days 70-75
+
 </details>
 
 
@@ -249,6 +257,7 @@ Overall this week's hackathon was a success, we were successful in automatically
 <summary><b>Week 12 - Final Project</b></summary>  
 
 ### W/c 23rd September  
+Days 78-82
 
 </details>
 
@@ -256,6 +265,7 @@ Overall this week's hackathon was a success, we were successful in automatically
 <summary><b>Week 13 - Project with YakChat</b></summary>  
   
 ### W/c 30th September  
+Days 85-89
 
 </details>
 
@@ -263,6 +273,7 @@ Overall this week's hackathon was a success, we were successful in automatically
 <summary><b>Week 14 - Project with YakChat</b></summary>  
   
 ### W/c 7th October<br>
+Days 92-96
 
 </details>
 
@@ -270,7 +281,7 @@ Overall this week's hackathon was a success, we were successful in automatically
 <summary><b>Week 15 - Project with YakChat</b></summary>  
   
 ### W/c 14th October  
-
+Days 95-99
   
 </details>
 
