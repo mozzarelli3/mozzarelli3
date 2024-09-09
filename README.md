@@ -262,7 +262,9 @@ Days 78-82
 </details>
 
 <details>
-<summary><b>Week 13 - [Project with YakChat](https://www.yakchat.com/)</b></summary>  
+<summary><b>Week 13 - Project with YakChat</b></summary>  
+
+[YakChat](https://www.yakchat.com/)
 
 ### W/c 30th September  
 Days 85-89
