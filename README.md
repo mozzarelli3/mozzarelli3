@@ -191,9 +191,11 @@ The first day of the UX/UI week! Today I had a lot of talks given by the lovely 
 Another day with Methods! Today we had talks about user research, accessibility, and user experience (UX) design.
 Also, today is halfway point in my 100 Days of Code! 50 days down, 50 more to go 💪🏻.
 
-### Day 51
+### Day 51 - Wireframing and Prototyping
+The challenge of today was to wireframe and prototype our application for tomorrow's hackathon presentation. Again, not much coding was completed today but I did look over and update my learning audit and went over some basic JS fundamentals as revision.
 
-### Day 52
+### Day 52 - Presentation to Methods
+Today's presentation went really well. It was great to have the experts from Methods in to give feedback on our work this week. The main points of feedback given were how my team and I took great care in ensuring the user research survey questions were well written, well thought-out, and effort was made to ensure that it didn't lead the interviewee to any answers.
 
 </details>
 
@@ -201,18 +203,39 @@ Also, today is halfway point in my 100 Days of Code! 50 days down, 50 more to go
 <details>
 <summary><b>Week 9 - DevOps</b></summary>  
   
-### W/c 2nd September  
+### Day 55 - DevOps and Docker
+The first day of DevOps. We had a great talk from ManyPets today, talking about the types roles in DevOps and how important it is.
+
+### Day 56 - Git Hooks (lint, prettier)
+
+
+### Day 57 - AWS Cloud Practioner
+Today we used the AWS Skills Builder game to learn more about Amazon's cloud services
+
+### Day 58 - DevOps Hackathon
+
+
+### Day 59 - Hackathon Presentation
+We used:
+- Docker to containerise our application
+- Husky to run automated lint and prettier checks upon committing
+- GitHub Actions to run automated checks again (lint and prettier) upon creating a pull request
+- Deploying the website automatically using Render (online hosting platform)
+Overall this week's hackathon was a success, we were successful in automatically deploying our website  
 
 </details>
 
------------
 
 <details>
 <summary><b>Week 10 - Cyber Security</b></summary>  
-  
-### W/c 9th September  
+
+### Day 60 - Cyber Security
+
+### Day 61 - 
+ 
 </details>
 
+-----------
 
 <details>
 <summary><b>Week 11 - Data, Python, and AI</b></summary>  
