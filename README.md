@@ -241,17 +241,24 @@ Overall this week's hackathon was a success, we were successful in automatically
  
 </details>
 
------------
 
 <details>
 <summary><b>Week 11 - Data, Python, and AI</b></summary>  
   
-### W/c 16th September  
+### Day 71 - AI Tools
+Today was a day testing out various kinds of AI tools for developers. I explored Cursor, v0, and GitHub Copilot. I think my favourite out of the three was v0, I loved that it gave a display window for the code that it gives you but also a window where the code is run so you can see exactly what it does without having to set it up yourself.
 
-Days 71-75
+### Day 72 - Scrimba
+Scrimba was introduced to us today, and it was incredibly useful. The interactive element of the tutorial videos was really great to use and will definitely be used as a revision tool in the future. Alongside this outside the bootcamp, I have started completing some Coderbyte challenges as extra hands-on practise while the bootcamp focusses more on tools.
+
+### Day 73
+### Day 74
+### Day 75
+
 
 </details>
 
+-----------
 
 <details>
 <summary><b>Week 12 - Final Project</b></summary>  
