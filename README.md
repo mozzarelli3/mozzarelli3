@@ -22,6 +22,11 @@
 <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a>
   
 </p>
+
+
+### Portfolio and Project Links
+- https://mozzarelli3.github.io/portfolio
+
 <br>
 <details>
 <summary>
@@ -302,16 +307,6 @@ Days 99-103
 </details>
 
 
-
-<details>
-
-<summary>
-
-### Portfolio and Project Links
-
-</summary>
-
-</details>
 
 
 
