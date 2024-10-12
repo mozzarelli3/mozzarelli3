@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ellie</h1>
-<h3 align="center">Student at School of Code and future Junior Frontend Developer at YakChat</h3>
+<h3 align="center">Student at School of Code and Junior Frontend Developer at YakChat</h3>
 
 - 🌱 I’m currently learning **HTML, CSS, JS, and many many more!**
 
