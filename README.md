@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Ellie</h1>
 <h3 align="center">Junior Frontend Developer at YakChat</h3>
-<h3 align="center">School of Code Graduate</h3>
+<h4 align="center">School of Code Graduate</h4>
 
 - 🌱 I’m currently learning **HTML, CSS, JS, and many many more!**
 
